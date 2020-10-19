@@ -1,3 +1,3 @@
 ### Recipe-book
 
-![Alt text](./public/recipe-homepage)
+![Screenshot](./public/recipe-homepage)
